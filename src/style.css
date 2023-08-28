@@ -1,0 +1,42 @@
+.green-heighlight {
+    color: green !important;
+    font-size: 40px;
+}
+
+.red-heighlight {
+    color: rgb(130, 120, 120);
+    font-size: 20px;
+}
+
+.handchange{
+    cursor: pointer;
+}
+.button{
+    margin-left: 20%;
+}
+
+.changecolor{
+    color: aliceblue !important;
+}
+
+.heading{
+    margin-top: 20px;
+     
+}
+.Textl-CO.active{
+    color: rgb(195, 211, 225) !important;
+}
+.Textl-CO{
+    color: rgb(225, 221, 215) !important;
+}
+
+.items{
+    
+    text-align: center;
+}
+.items>button{
+    background-color: rgb(22, 25, 218);
+    color: beige;
+    border-radius: 2px;
+    border: solid rgb(22, 25, 218);
+}
